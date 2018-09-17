@@ -42,7 +42,7 @@ y = 30;
             System.out.println("x = y");
 
         
-
+//deneme
 
 
 
